@@ -32,9 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habit é um app para ajudar a rastrear os hábitos .
+O Habits é um app para ajudar a rastrear os hábitos .
 
-
+- [Visite o projeto online](https://gabrielrarodrigues.github.io/NLW_SETUP)
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/ffeqnEwS7ksAkJJpO2IROB/Habits-(e)-(Community)?node-id=6%3A910&t=1ji1J7CL1PNB9Etc-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
